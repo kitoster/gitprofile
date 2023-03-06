@@ -122,6 +122,7 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
+      'light',
       'dark',
       'cupcake',
       'bumblebee',

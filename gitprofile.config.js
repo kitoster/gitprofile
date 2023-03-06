@@ -13,8 +13,7 @@ const config = {
   social: {
     email: 'kit.oster@csuglobal.edu',
     linkedin: 'kit-oster',
-    blogspot: 'https://databasedkit.blogspot.com/'
- 
+    dev: 'kitoster'
   },
   resume: {
     fileUrl:

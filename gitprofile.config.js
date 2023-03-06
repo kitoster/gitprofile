@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     email: 'kit.oster@csuglobal.edu',
-    linkedin: 'kit-oster',
+    linkedin: 'kitoster',
     dev: 'kitoster'
   },
   resume: {
@@ -69,7 +69,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Churn Rates with sqlite',
+      title: 'Example',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',

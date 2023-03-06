@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
+    linkedin: 'Kit Oster',
     twitter: 'arif_szn',
     mastodon: 'arifszn@mastodon.social',
     medium: 'arifszn',
@@ -78,7 +78,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Churn Rates with sqlite',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',

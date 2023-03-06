@@ -38,14 +38,14 @@ const config = {
   ],
   experience: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Kings Creek Country Club',
+      position: 'Wellness Administrator',
+      from: 'April 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://https://www.kingscreekcountryclub.com/.com',
     },
     {
-      company: 'Company Name',
+      company: 'Delaware Technical Community College',
       position: 'Position',
       from: 'July 2019',
       to: 'August 2021',
@@ -62,16 +62,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Colorado State University Global',
+      degree: 'Bachelor of Science in Computer Science',
+      from: '2021',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Delaware Technical Community College',
+      degree: 'Associate of Science in Information Technology',
+      from: '2018',
+      to: '2020',
     },
   ],
 
@@ -122,7 +122,6 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
       'dark',
       'cupcake',
       'bumblebee',

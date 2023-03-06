@@ -7,13 +7,12 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Kits_gitprofile', 'FlagFinder', 'Portfolio'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
     email: 'kit.oster@csuglobal.edu',
     linkedin: 'kit-oster',
-    twitter: 'holder',
     blogger: 'https://databasedkit.blogspot.com/'
  
   },
@@ -22,7 +21,6 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
     'JavaScript',
     'MySQL',
     'PostgreSQL',
@@ -43,7 +41,7 @@ const config = {
       position: 'Position',
       from: 'July 2019',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.dtcc.edu/our-campuses/georgetown',
     },
   ],
   /* certifications: [
@@ -101,7 +99,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'dark',
+    defaultTheme: 'dracula',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -118,31 +116,20 @@ const config = {
     themes: [
       'light',
       'dark',
-      'emerald',
       'corporate',
+      'dracula',
       'synthwave',
       'retro',
-      'cyberpunk',
       'valentine',
       'halloween',
       'garden',
       'forest',
       'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
       'black',
       'luxury',
-      'dracula',
-      'cmyk',
       'autumn',
       'business',
-      'acid',
-      'lemonade',
       'night',
-      'coffee',
-      'winter',
       'procyon',
     ],
 

@@ -11,17 +11,11 @@ const config = {
     },
   },
   social: {
-    linkedin: 'Kit Oster',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'kit.oster@csuglobal.edu',
+    linkedin: 'kit-oster',
+    twitter: 'holder',
+    blogger: 'https://databasedkit.blogspot.com/'
+ 
   },
   resume: {
     fileUrl:
@@ -107,7 +101,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -124,8 +118,6 @@ const config = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
       'emerald',
       'corporate',
       'synthwave',

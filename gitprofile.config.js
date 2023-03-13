@@ -13,7 +13,8 @@ const config = {
   social: {
     email: 'kit.oster@csuglobal.edu',
     linkedin: 'kitoster',
-    dev: 'kitoster'
+    dev: 'kitoster',
+    medium: 'kit.oster'
   },
   resume: {
     fileUrl:
@@ -85,8 +86,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'kitoster', // to hide blog section, keep it empty
+    source: 'medium', // medium | dev
+    username: 'kit.oster', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {

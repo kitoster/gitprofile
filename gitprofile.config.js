@@ -44,14 +44,14 @@ const config = {
       companyLink: 'https://www.dtcc.edu/our-campuses/georgetown',
     },
   ],
-  /* certifications: [
+   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'System Administration and IT Infrastructure Services',
+      body: 'Google',
+      year: 'March 2023',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Colorado State University Global',

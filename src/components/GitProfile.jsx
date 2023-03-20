@@ -189,7 +189,7 @@ const GitProfile = ({ config }) => {
                         loading={loading}
                         education={sanitizedConfig.education}
                       />
-                      <Certifications
+                      <Certification
                         loading={loading}
                         certifications={sanitizedConfig.certifications}
                       />

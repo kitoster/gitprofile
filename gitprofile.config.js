@@ -73,7 +73,7 @@ const config = {
       title: 'National Parks Exploration',
       description:
         'An analysis of National Park data using Jupyter Notebooks.',
-      imageUrl: 'https://media.cntraveler.com/photos/5b71a3d92211d70d9158ae1a/16:9/w_2560%2Cc_limit/Yosemite_GettyImages-632167865.jpg',
+      imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-2.ipynb',
     },
     {

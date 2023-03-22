@@ -7,7 +7,7 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['Kits_gitprofile', 'FlagFinder', 'Portfolio'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Kits_gitprofile', 'FlagFinder', 'Portfolio', 'ParksExploration-python'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -70,11 +70,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Example',
+      title: 'National Parks Exploration',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'An analysis of National Park data using Jupyter Notebooks.',
+      imageUrl: 'https://media.cntraveler.com/photos/5b71a3d92211d70d9158ae1a/16:9/w_2560%2Cc_limit/Yosemite_GettyImages-632167865.jpg',
+      link: 'https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-2.ipynb',
     },
     {
       title: 'Project Name',

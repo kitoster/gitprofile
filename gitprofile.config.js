@@ -7,7 +7,7 @@ const config = {
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: ['Kits_gitprofile', 'FlagFinder', 'Portfolio', 'ParksExploration-python'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Kits_gitprofile', 'FlagFinder', 'Portfolio'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {

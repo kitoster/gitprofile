@@ -49,7 +49,7 @@ const config = {
       name: 'System Administration and IT Infrastructure Services',
       body: 'Google',
       year: 'March 2023',
-      link: 'https://example.com'
+      link: 'https://coursera.org/share/3c3bcc4f871dd078e8282f6498590b82'
     },
   ], 
   education: [

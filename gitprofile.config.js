@@ -74,7 +74,7 @@ const config = {
       description:
         'An analysis of National Park data using Jupyter Notebooks.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-2.ipynb',
+      link: 'https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-3.ipynb',
     },
     {
       title: 'Project Name',

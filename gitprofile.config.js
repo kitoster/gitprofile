@@ -77,9 +77,9 @@ const config = {
       link: 'https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-3.ipynb',
     },
     {
-      title: 'Project Name',
+      title: 'Life Expectancy Visualization',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Exploration and analysis of data from the World Health Organization',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },

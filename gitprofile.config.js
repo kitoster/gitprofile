@@ -77,11 +77,11 @@ const config = {
       link: 'https://nbviewer.org/github/kitoster/ParksExploration-python/blob/main/biodiversity-3.ipynb',
     },
     {
-      title: 'Life Expectancy Visualization',
+      title: 'Analysis and Prediction of Medical Costs',
       description:
-        'Exploration and analysis of data from the World Health Organization',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Exploration and analysis of medical costs on Kaggle.',
+      imageUrl: 'https://imgur.com/a/MZomd1x',
+      link: 'https://www.kaggle.com/code/kitoster/visualization-and-prediction/notebook',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)

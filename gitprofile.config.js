@@ -14,19 +14,21 @@ const config = {
     email: 'kit.oster@csuglobal.edu',
     linkedin: 'kitoster',
     dev: 'kitoster',
-    medium: 'kit.oster'
+    medium: 'kit.oster',
+    kaggle: 'kitoster'
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'JavaScript',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Python',
+    'Pandas',
     'NumPy',
+    'Tableau',
+    'Matplotlib & Seaborn'
   ],
   experience: [
     {
@@ -88,7 +90,7 @@ const config = {
   blog: {
     source: 'medium', // medium | dev
     username: 'kit.oster', // to hide blog section, keep it empty
-    limit: 3, // How many posts to display. Max is 10.
+    limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
